@@ -1,0 +1,10 @@
+[package]
+name = "gh-committer"
+version = "0.1.0"
+authors = ["stevemolitor <steve.molitor@zapier.com>"]
+edition = "2018"
+decsription = "Programmatically commit to YAML and JSON config files in a GH repo"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
